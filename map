@@ -1,0 +1,10 @@
+arima.py
+arma.py
+backward.py
+forward.py
+cubic.py
+lagrange.py
+linreg.py
+mulreg.py
+newton.py
+timeseries.py
